@@ -1,6 +1,6 @@
 ### Register number : 24900880
 ### Name : Abishek Priyan M
-### Experiment 2: BOOLEAN FUNCTION MINIMIZATION
+### Experiment 2: IMPLEMENTATION OF BOOLEAN FUNCTION MINIMIZATION
 
 **AIM:**
 
